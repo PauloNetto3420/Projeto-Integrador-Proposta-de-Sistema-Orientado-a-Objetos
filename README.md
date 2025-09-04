@@ -17,22 +17,22 @@ Grupo 21 do Projeto Integrador de Proposta de Sistema Orientado a Objetos
 ## Protótipos de Telas
 
 ### 1. Login
-![Tela de Login](figma/1-Login.jpg)
+![Tela de Login](Figma/1-Login.jpg)
 
 ### 2. Menu Principal
-![Menu Principal](figma/2-Menu%20Principal.jpg)
+![Menu Principal](Figma/2-Menu%20Principal.jpg)
 
 ### 3. Cadastro de Pessoa Física
-![Cadastro de Pessoa Física](figma/3-Cadastro%20de%20Pessoa%20Física.jpg)
+![Cadastro de Pessoa Física](Figma/3-Cadastro%20de%20Pessoa%20Física.jpg)
 
 ### 4. Cadastro de Pessoa Jurídica
-![Cadastro de Pessoa Jurídica](figma/4-Cadastro%20de%20Pessoa%20Jurídica.jpg)
+![Cadastro de Pessoa Jurídica](Figma/4-Cadastro%20de%20Pessoa%20Jurídica.jpg)
 
 ### 5. Cadastro de Professor
-![Cadastro de Professor](figma/5-%20Cadastro%20de%20Professor.jpg)
+![Cadastro de Professor](Figma/5-%20Cadastro%20de%20Professor.jpg)
 
 ### 6. Cadastro de Fornecedor
-![Cadastro de Fornecedor](figma/6-Cadastro%20de%20Forncedor.jpg)
+![Cadastro de Fornecedor](Figma/6-Cadastro%20de%20Forncedor.jpg)
 
 ### 7. Cadastro de Aluno
-![Cadastro de Aluno](figma/7-Cadastro%20de%20Aluno.jpg)
+![Cadastro de Aluno](Figma/7-Cadastro%20de%20Aluno.jpg)
