@@ -14,6 +14,12 @@ Grupo 21 do Projeto Integrador de Proposta de Sistema Orientado a Objetos
 - Victor Rodrigues de Souza
 - Yasmim Marie Patrício Pereira
 
+### Arquivo PI da 1° entrega
+[Baixar arquivo da 1° entrega](./PROJETO%20INTEGRADOR%20-%20GRUPO%2021%20-%20PRIMEIRA%20ENTREGA.docx)
+
+### Modelo em diagrama
+![Como é feito o estudo do projeto conforme o diagrama](diagrama/image.jpg)
+
 ## Protótipos de Telas
 
 ### 1. Login
@@ -36,3 +42,6 @@ Grupo 21 do Projeto Integrador de Proposta de Sistema Orientado a Objetos
 
 ### 7. Cadastro de Aluno
 ![Cadastro de Aluno](Figma/7-Cadastro%20de%20Aluno.jpg)
+
+### Arquivo PI da 1° entrega
+[Baixar arquivo da 1° entrega](./PROJETO%20INTEGRADOR%20-%20GRUPO%2021%20-%20PRIMEIRA%20ENTREGA.docx)
