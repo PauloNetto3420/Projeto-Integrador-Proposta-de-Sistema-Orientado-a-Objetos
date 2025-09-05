@@ -17,9 +17,6 @@ Grupo 21 do Projeto Integrador de Proposta de Sistema Orientado a Objetos
 ### Arquivo PI da 1° entrega
 [Baixar arquivo da 1° entrega](./PROJETO%20INTEGRADOR%20-%20GRUPO%2021%20-%20PRIMEIRA%20ENTREGA.docx)
 
-### Modelo em diagrama
-![Como é feito o estudo do projeto conforme o diagrama](diagrama/image.jpg)
-
 ## Protótipos de Telas
 
 ### 1. Login
